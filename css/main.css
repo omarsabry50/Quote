@@ -1,0 +1,23 @@
+.main h1
+{
+    font-size: 5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.main h3
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+}
+
+
+.main button
+{
+    background-color: blue;
+    padding: 1.5rem 5rem;
+
+}
+.main button:hover
+{
+    background-color: green;
+}
